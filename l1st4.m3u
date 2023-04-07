@@ -1,0 +1,117 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="Latina.pe" tvg-logo="https://i.imgur.com/RMFG5au.png" group-title="General",Latina (YT)
+https://hls.youtb.workers.dev/channel/UCpSJ5fGhmAME9Kx2D3ZvN3Q.m3u8
+
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AMLnZu_XreWbOMdvF82q5rVgyIUZf_VSfktF6s-opbS2SQ=s88-c-k-c0x00ffffff-no-rj" group-title="Animation",WB Kids Latino (YT)
+https://hls.youtb.workers.dev/channel/UCtW5GPO_DZon6zVAuinvwxA.m3u8
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AMLnZu_OFRR0tMA4MXUJATKTZl3ybfHbk96ZKx86lPx5=s88-c-k-c0x00ffffff-no-rj" group-title="Animation",DC Kids Latino (YT)
+https://hls.youtb.workers.dev/channel/UCZx5TzdG3RC4CMNmxJLgfRw.m3u8
+
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/rt1bDWIkFPoQblyNJnQsf1LisM9i88QKRUU-NZu9fmQ0ogyLvUVVUJe1ufaEN0E8DiZk2RgYwg=s88-c-k-c0x00ffffff-no-rj" group-title="Music",ALL THE K-POP (YT)
+https://hls.youtb.workers.dev/channel/UCPde4guD9yFBRzkxk2PatoA
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/TgL5KUN48UWo9ADJskGN0NEDD7QJRUvyotOQ5_i0X5fitOERE-d4Utvw8LQNSX9yXgKNmeaJZO4=s88-c-k-c0x00ffffff-no-rj" group-title="Music",THE K-POP (YT)
+https://hls.youtb.workers.dev/channel/UCoRXPcv8XK5fAplLbk9PTww
+
+#EXTINF:-1 tvg-id="CCTV 2" tvg-logo="https://yt3.googleusercontent.com/ytc/AMLnZu8El1qc8zBPmTcX3UTnjV2Coqj_wPCYMNWF_c-nfN4=s88-c-k-c0x00ffffff-no-rj" group-title="General",CCTV 2
+https://cctvwbcdkshw.v.kcdnvip.com/cctvwbcd/cdrmcctv2_1/index.m3u8?b=200-2100
+
+
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AMLnZu9C4-5k44RzS83-bUtbDVpoSB-DxyxX5sJrMkKcl5g=s48-c-k-c0x00ffffff-no-rj" group-title="United States (Estados Unidos)",Today All Day
+https://hls.youtb.workers.dev/channel/UChDKyKQ59fYz3JO2fl0Z6sg
+
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AL5GRJXxSCfelGkSvVDzgmyjOhm1gBKZFSDSUHt-pgk8hfU=s88-c-k-c0x00ffffff-no-rj" group-title="Perú (Peru)",Willax Televisión
+https://hls.youtb.workers.dev/channel/UCort3mldTtMErPqprSlSfng
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/CGTN_Espanol.png/180px-CGTN_Espanol.png" group-title="China (中国)",CGTN En Español
+http://livees.cgtn.com/1000e/prog_index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Arirang-TV-Logo.svg/250px-Arirang-TV-Logo.svg.png" group-title="South Korea (한국어)",Arirang
+http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/ff/EBS_1TV_Logo.png/" group-title="South Korea (한국어)",EBS 1
+https://ebsonair.ebs.co.kr/groundwavefamilypc/familypc1m/chunklist_w1149608073.m3u8
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/5/56/EBS_2TV_Logo.png" group-title="South Korea (한국어)",EBS 2
+http://ebsonair.ebs.co.kr:1935/ebs2familypc/familypc1m/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/E/ebs-kids-logo-D07C2E2514-seeklogo.com.png" group-title="South Korea (한국어)",EBS Kids
+https://ebsonair.ebs.co.kr/ebsufamilypc/familypc1m/chunklist_w1948735958.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c6/EBS_FM.png" group-title="South Korea (한국어)",EBS FM
+https://ebsonair.ebs.co.kr/fmradiofamilypc/familypc1m/chunklist_w1909461107.m3u8
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/7/70/Channels_IPTV_01.png" group-title="South Korea (한국어)",EBSi
+http://ebsonair.ebs.co.kr:1935/plus1familypc/familypc1m/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/5/5c/Channels_IPTV_02.png" group-title="South Korea (한국어)",EBS+ 2
+http://ebsonair.ebs.co.kr:1935/plus2familypc/familypc1m/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a9/Channels_IPTV_03.png" group-title="South Korea (한국어)",EBSe
+http://ebsonair.ebs.co.kr:1935/plus3familypc/familypc1m/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/NHK_World.svg/245px-NHK_World.svg.png" group-title="Japan (日本)",NHK World
+https://nhkwlive-ojp.webcdn.stream.ne.jp/hls/live/2003459/nhkwlive-ojp/index_1M.m3u8
+#EXTINF:-1 tvg-logo="http://japan.cgntv.net/upload/happy_config/info_logo.png" group-title="Japan (日本)",CGN 日本
+http://cgntv-glive.ofsdelivery.net/live/_definst_/cgntv_jp/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo_TVE-24h.svg/125px-Logo_TVE-24h.svg.png" group-title="Spain (España)",TVE 24h
+https://ztnr.rtve.es/ztnr/1694255.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Latina_televisión_12_2019.jpg/125px-Latina_televisión_12_2019.jpg" group-title="Peru (Perú)",Latina TV
+http://177.53.152.186:8000/play/a019/index.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/América_Televisión.svg/240px-América_Televisión.svg.png" group-title="Peru (Perú)",America TV
+https://mdstrm.com/live-stream-playlist/6099b04d9418ac082441dd74.m3u8?uid=rPd2Y9SkB5SOXgw0MVxBCRWGMlGbWKBq&sid=7z9dWCH4XHHShRR2w2O1hR7cckq0CBR5&pid=eUvPUx6ZCztm8PqHQsUcdt18Ef4cz84R&an=screen&at=web-app&av=v5.2.221&ref=https%3A%2F%2Ftvgo.americatv.com.pe%2F&res=941x528&without_cookies=false&dnt=true&access_token=41Z3qYYq6G8t56Q8AYX6azp0IbwPNfWIhGTI6Z9iu7WL9jWITT6dxY7uhU3QtX2SoqIPt1YnZ7Y
+
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_panamericana_tv_2020_2.png/239px-Logo_panamericana_tv_2020_2.png" group-title="Peru (Perú)",Panamericana_TV_240p
+https://stream-02.sv4.dailymotion.com/sec(mj562f6n9IrWiHyCluoeFt8y1qcWz_m3cLbczuaigCYobXPYs9IMjPzooEumvFSC)/dm/3/x774s7s/s/live-0.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_panamericana_tv_2020_2.png/239px-Logo_panamericana_tv_2020_2.png" group-title="Peru (Perú)",Panamericana_TV_360p
+https://stream-02.sv4.dailymotion.com/sec(mj562f6n9IrWiHyCluoeFt8y1qcWz_m3cLbczuaigCYobXPYs9IMjPzooEumvFSC)/dm/3/x774s7s/s/live-1.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_panamericana_tv_2020_2.png/239px-Logo_panamericana_tv_2020_2.png" group-title="Peru (Perú)",Panamericana_TV_480p
+https://stream-02.sv4.dailymotion.com/sec(mj562f6n9IrWiHyCluoeFt8y1qcWz_m3cLbczuaigCYobXPYs9IMjPzooEumvFSC)/dm/3/x774s7s/s/live-2.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_panamericana_tv_2020_2.png/239px-Logo_panamericana_tv_2020_2.png" group-title="Peru (Perú)",Panamericana_TV_720p
+https://stream-02.sv4.dailymotion.com/sec(mj562f6n9IrWiHyCluoeFt8y1qcWz_m3cLbczuaigCYobXPYs9IMjPzooEumvFSC)/dm/3/x774s7s/s/live-3.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_panamericana_tv_2020_2.png/239px-Logo_panamericana_tv_2020_2.png" group-title="Peru (Perú)",Panamericana_TV
+https://cdnh71.iblups.com/hls/ptv2.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/TV_Perú_Internacional_2019_-_copia.png/250px-TV_Perú_Internacional_2019_-_copia.png" group-title="Peru (Perú)",TV Perú Internacional
+https://cdnh8.iblups.com/hls/irtp.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/TV_Perú_Noticias_-_2019_logo.png/220px-TV_Perú_Noticias_-_2019_logo.png" group-title="Peru (Perú)",TV Perú Noticias
+https://cdnh79.iblups.com/hls/RMuwrdk7M9.m3u8
+#EXTINF:-1 tvg-logo="https://www.tvperu.gob.pe/sites/all/themes/stability/images/logo.png" group-title="Peru (Perú)",TV Perú
+https://cdnh71.iblups.com/hls/R9WtilpKKB.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/ATV_logo_2020.png/170px-ATV_logo_2020.png" group-title="Peru (Perú)",ATV 240p
+https://atvperu.akamaized.net/hls/live/2100630/atv/master_240.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/ATV_logo_2020.png/170px-ATV_logo_2020.png" group-title="Peru (Perú)",ATV 480P
+https://atvperu.akamaized.net/hls/live/2100630/atv/master_480.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/ATV_logo_2020.png/170px-ATV_logo_2020.png" group-title="Peru (Perú)",ATV 720P
+https://atvperu.akamaized.net/hls/live/2100630/atv/master_720.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/ATV%2B_logo_2020.png/175px-ATV%2B_logo_2020.png" group-title="Peru (Perú)",ATV + 360P
+https://d22ast2s6i1kcc.cloudfront.net/hls/atv2_360.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/ATV%2B_logo_2020.png/175px-ATV%2B_logo_2020.png" group-title="Peru (Perú)",ATV + 480P
+https://d22ast2s6i1kcc.cloudfront.net/hls/atv2_480.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.atv.pe/wp-content/uploads/2023/03/logo_atvSur_naranja-1.png" group-title="Peru (Perú)",ATV Sur 360p
+https://d3txgn7b0ej9cy.cloudfront.net/atv/8bcf2b35a573163055a95e18c0c35226.sdp/atv/atvsur3/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://www.atv.pe/wp-content/uploads/2023/03/logo_atvSur_naranja-1.png" group-title="Peru (Perú)",ATV Sur 480p
+https://d3txgn7b0ej9cy.cloudfront.net/atv/8bcf2b35a573163055a95e18c0c35226.sdp/atv/atvsur2/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://www.atv.pe/wp-content/uploads/2023/03/logo_atvSur_naranja-1.png" group-title="Peru (Perú)",ATV Sur 720p
+https://d3txgn7b0ej9cy.cloudfront.net/atv/8bcf2b35a573163055a95e18c0c35226.sdp/atv/atvsur1/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AL5GRJXxSCfelGkSvVDzgmyjOhm1gBKZFSDSUHt-pgk8hfU=s88-c-k-c0x00ffffff-no-rj" group-title="Peru (Perú)",Willax TV 240p
+https://stream-12.dc3.dailymotion.com/sec(ekpi6JmRB5KslkTtNqtBmrq7S5e4XOL7U7jaSvc2j2vnG2GOFkGzQ0LyoVRqLb_X)/dm/3/x7x4dgx/s/live-0.m3u8
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AL5GRJXxSCfelGkSvVDzgmyjOhm1gBKZFSDSUHt-pgk8hfU=s88-c-k-c0x00ffffff-no-rj" group-title="Peru (Perú)",Willax TV 480p
+https://stream-12.dc3.dailymotion.com/sec(ekpi6JmRB5KslkTtNqtBmrq7S5e4XOL7U7jaSvc2j2vnG2GOFkGzQ0LyoVRqLb_X)/dm/3/x7x4dgx/s/live-1.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/28acdc65-602c-46f2-a88f-9cedbaee8c8d-profile_image-150x150.png" group-title="Streamers (Streamers)",Zein
+https://live.obslivestream.com/cdeportivo2/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AMLnZu9C4-5k44RzS83-bUtbDVpoSB-DxyxX5sJrMkKcl5g=s48-c-k-c0x00ffffff-no-rj" group-title="United States (Estados Unidos)",Today All Day
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/TODAY/live
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/46IT-KTOYd5FQsG0ygVDrXwg-CXO1z4rBZ2IVvF3WUjbg6MjHYdG3FV5C00lDwKYW114sF4s9w=s48-c-k-c0x00ffffff-no-rj" group-title="United States (Estados Unidos)",FOX Weather
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/Foxweather/live
+
