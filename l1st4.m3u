@@ -59,14 +59,25 @@ https://live-latinav2-mdstrm.secure.footprint.net/live-stream-mp/d1aden84nxx8u4/
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/América_Televisión.svg/240px-América_Televisión.svg.png" group-title="Peru (Perú)",America TV
 https://mdstrm.com/live-stream-playlist/6099b04d9418ac082441dd74.m3u8?uid=rPd2Y9SkB5SOXgw0MVxBCRWGMlGbWKBq&sid=7z9dWCH4XHHShRR2w2O1hR7cckq0CBR5&pid=eUvPUx6ZCztm8PqHQsUcdt18Ef4cz84R&an=screen&at=web-app&av=v5.2.221&ref=https%3A%2F%2Ftvgo.americatv.com.pe%2F&res=941x528&without_cookies=false&dnt=true&access_token=41Z3qYYq6G8t56Q8AYX6azp0IbwPNfWIhGTI6Z9iu7WL9jWITT6dxY7uhU3QtX2SoqIPt1YnZ7Y
 
-
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_panamericana_tv_2020_2.png/239px-Logo_panamericana_tv_2020_2.png" group-title="Peru (Perú)",Panamericana_TV 240p
+https://stream-01.nyc.dailymotion.com/sec(mj562f6n9IrWiHyCluoeFqoYz0qLIIXTKPxpOAnZDhAhjKTBpNt98LrD-Vj5YG28)/dm/3/x774s7s/s/live-0.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_panamericana_tv_2020_2.png/239px-Logo_panamericana_tv_2020_2.png" group-title="Peru (Perú)",Panamericana_TV 380p
+https://stream-01.nyc.dailymotion.com/sec(mj562f6n9IrWiHyCluoeFqoYz0qLIIXTKPxpOAnZDhAhjKTBpNt98LrD-Vj5YG28)/dm/3/x774s7s/s/live-1.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_panamericana_tv_2020_2.png/239px-Logo_panamericana_tv_2020_2.png" group-title="Peru (Perú)",Panamericana_TV 480p
+https://stream-01.nyc.dailymotion.com/sec(mj562f6n9IrWiHyCluoeFqoYz0qLIIXTKPxpOAnZDhAhjKTBpNt98LrD-Vj5YG28)/dm/3/x774s7s/s/live-2.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_panamericana_tv_2020_2.png/239px-Logo_panamericana_tv_2020_2.png" group-title="Peru (Perú)",Panamericana_TV 720p
+https://stream-01.nyc.dailymotion.com/sec(mj562f6n9IrWiHyCluoeFqoYz0qLIIXTKPxpOAnZDhAhjKTBpNt98LrD-Vj5YG28)/dm/3/x774s7s/s/live-3.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_panamericana_tv_2020_2.png/239px-Logo_panamericana_tv_2020_2.png" group-title="Peru (Perú)",Panamericana_TV
 https://cdnh74.iblups.com/hls/ptv2.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://www.tvperu.gob.pe/sites/all/themes/stability/images/logo.png" group-title="Peru (Perú)",TV Perú
-https://cdnh8.iblups.com/hls/irtp.m3u8
+#EXTINF:-1 tvg-logo="https://www.tvperu.gob.pe/sites/all/themes/stability/images/logo.png" group-title="Peru (Perú)",TV Perú 480p
+https://d6vls0u25arys.cloudfront.net/out/v1/777b4d4cc0984575a7d14f6ee57dbcaf/index_3.m3u8
+#EXTINF:-1 tvg-logo="https://www.tvperu.gob.pe/sites/all/themes/stability/images/logo.png" group-title="Peru (Perú)",TV Perú 720p
+https://d6vls0u25arys.cloudfront.net/out/v1/777b4d4cc0984575a7d14f6ee57dbcaf/index_2.m3u8
+#EXTINF:-1 tvg-logo="https://www.tvperu.gob.pe/sites/all/themes/stability/images/logo.png" group-title="Peru (Perú)",TV Perú 1080p
+https://d6vls0u25arys.cloudfront.net/out/v1/777b4d4cc0984575a7d14f6ee57dbcaf/index_1.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/TV_Perú_Noticias_-_2019_logo.png/220px-TV_Perú_Noticias_-_2019_logo.png" group-title="Peru (Perú)",TV Perú Noticias 480P
 https://d10tjjjvbn1fcu.cloudfront.net/out/v1/902c1a0395264f269f1160efa00660e4/index_1.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/TV_Perú_Noticias_-_2019_logo.png/220px-TV_Perú_Noticias_-_2019_logo.png" group-title="Peru (Perú)",TV Perú Noticias 720P
@@ -101,9 +112,9 @@ https://d3txgn7b0ej9cy.cloudfront.net/atv/8bcf2b35a573163055a95e18c0c35226.sdp/a
 https://d3txgn7b0ej9cy.cloudfront.net/atv/8bcf2b35a573163055a95e18c0c35226.sdp/atv/atvsur1/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AL5GRJXxSCfelGkSvVDzgmyjOhm1gBKZFSDSUHt-pgk8hfU=s88-c-k-c0x00ffffff-no-rj" group-title="Peru (Perú)",Willax TV 240p
-https://stream-02.nyc.dailymotion.com/sec(ekpi6JmRB5KslkTtNqtBmoatl_4mQrVh0FJcYTJfSxXgjd1VYp_979DtcGZx2JOZ)/dm/3/x7x4dgx/s/live-0.m3u8
+https://stream-02.sv4.dailymotion.com/sec(ekpi6JmRB5KslkTtNqtBmmsqtoAdW-EGTaOQ9KsFxUSXfAeLS0e8skpbRWz9NnmZ)/dm/3/x7x4dgx/s/live-0.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AL5GRJXxSCfelGkSvVDzgmyjOhm1gBKZFSDSUHt-pgk8hfU=s88-c-k-c0x00ffffff-no-rj" group-title="Peru (Perú)",Willax TV 480p
-https://stream-02.nyc.dailymotion.com/sec(ekpi6JmRB5KslkTtNqtBmoatl_4mQrVh0FJcYTJfSxXgjd1VYp_979DtcGZx2JOZ)/dm/3/x7x4dgx/s/live-1.m3u8
+https://stream-02.sv4.dailymotion.com/sec(ekpi6JmRB5KslkTtNqtBmmsqtoAdW-EGTaOQ9KsFxUSXfAeLS0e8skpbRWz9NnmZ)/dm/3/x7x4dgx/s/live-1.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://contactodeportivo.pe/wp-content/uploads/2021/10/CONTACTO-DEPORTIVO-300x90.png" group-title="Streamers (Streamers)",Conacto Deportivo 2
