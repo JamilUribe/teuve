@@ -92,32 +92,38 @@ https://dy8y8vcruqztn.cloudfront.net/out/v1/ee2450c81e554f4cae0e6292106993c2/ind
 https://dy8y8vcruqztn.cloudfront.net/out/v1/ee2450c81e554f4cae0e6292106993c2/index_3.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/ATV_logo_2020.png/170px-ATV_logo_2020.png" group-title="Peru (Perú)",ATV 240p
-https://d22ast2s6i1kcc.cloudfront.net/hls/atv_240.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/ATV_logo_2020.png/170px-ATV_logo_2020.png" group-title="Peru (Perú)",ATV
+https://d3krdjs7is1y42.cloudfront.net/ATVpe/df13ed57843877b21ad969184ab6888f.sdp/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/ATV_logo_2020.png/170px-ATV_logo_2020.png" group-title="Peru (Perú)",ATV 360p
+https://d3krdjs7is1y42.cloudfront.net/ATVpe/df13ed57843877b21ad969184ab6888f.sdp/ATVpe/ATV3/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/ATV_logo_2020.png/170px-ATV_logo_2020.png" group-title="Peru (Perú)",ATV 480P
-https://d22ast2s6i1kcc.cloudfront.net/hls/atv_480.m3u8
+https://d3krdjs7is1y42.cloudfront.net/ATVpe/df13ed57843877b21ad969184ab6888f.sdp/ATVpe/ATV2/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/ATV_logo_2020.png/170px-ATV_logo_2020.png" group-title="Peru (Perú)",ATV 720P
-https://d22ast2s6i1kcc.cloudfront.net/hls/atv_720.m3u8
+https://d3krdjs7is1y42.cloudfront.net/ATVpe/df13ed57843877b21ad969184ab6888f.sdp/ATVpe/ATV1/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/ATV%2B_logo_2020.png/175px-ATV%2B_logo_2020.png" group-title="Peru (Perú)",ATV + 360P
-https://d22ast2s6i1kcc.cloudfront.net/hls/atv2_360.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/ATV%2B_logo_2020.png/175px-ATV%2B_logo_2020.png" group-title="Peru (Perú)",ATV + 480P
-https://d22ast2s6i1kcc.cloudfront.net/hls/atv2_480.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/ATV%2B_logo_2020.png/175px-ATV%2B_logo_2020.png" group-title="Peru (Perú)",ATV +
+https://d3krdjs7is1y42.cloudfront.net/ATVmas/74ee4169b59e6f987ae3d77317309109.sdp/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/ATV%2B_logo_2020.png/175px-ATV%2B_logo_2020.png" group-title="Peru (Perú)",ATV + 720P
+https://d3krdjs7is1y42.cloudfront.net/ATVmas/74ee4169b59e6f987ae3d77317309109.sdp/ATVmas/ATVmas1/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.atv.pe/wp-content/uploads/2023/03/logo_atvSur_naranja-1.png" group-title="Peru (Perú)",ATV Sur 360p
-https://d3txgn7b0ej9cy.cloudfront.net/atv/8bcf2b35a573163055a95e18c0c35226.sdp/atv/atvsur3/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://www.atv.pe/wp-content/uploads/2023/03/logo_atvSur_naranja-1.png" group-title="Peru (Perú)",ATV Sur
+https://d3krdjs7is1y42.cloudfront.net/ATVSur/f05b236d4a4d43b3987d6f5ed5686d6e.sdp/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.atv.pe/wp-content/uploads/2023/03/logo_atvSur_naranja-1.png" group-title="Peru (Perú)",ATV Sur 480p
-https://d3txgn7b0ej9cy.cloudfront.net/atv/8bcf2b35a573163055a95e18c0c35226.sdp/atv/atvsur2/chunks.m3u8
+https://d3krdjs7is1y42.cloudfront.net/ATVSur/f05b236d4a4d43b3987d6f5ed5686d6e.sdp/ATVSur/ATVSur2/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://www.atv.pe/wp-content/uploads/2023/03/logo_atvSur_naranja-1.png" group-title="Peru (Perú)",ATV Sur 720p
-https://d3txgn7b0ej9cy.cloudfront.net/atv/8bcf2b35a573163055a95e18c0c35226.sdp/atv/atvsur1/chunks.m3u8
+https://d3krdjs7is1y42.cloudfront.net/ATVSur/f05b236d4a4d43b3987d6f5ed5686d6e.sdp/ATVSur/ATVSur1/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AL5GRJXxSCfelGkSvVDzgmyjOhm1gBKZFSDSUHt-pgk8hfU=s88-c-k-c0x00ffffff-no-rj" group-title="Peru (Perú)",Willax TV 240p
 https://stream-02.sv4.dailymotion.com/sec(ekpi6JmRB5KslkTtNqtBmmsqtoAdW-EGTaOQ9KsFxUSXfAeLS0e8skpbRWz9NnmZ)/dm/3/x7x4dgx/s/live-0.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AL5GRJXxSCfelGkSvVDzgmyjOhm1gBKZFSDSUHt-pgk8hfU=s88-c-k-c0x00ffffff-no-rj" group-title="Peru (Perú)",Willax TV 480p
 https://stream-02.sv4.dailymotion.com/sec(ekpi6JmRB5KslkTtNqtBmmsqtoAdW-EGTaOQ9KsFxUSXfAeLS0e8skpbRWz9NnmZ)/dm/3/x7x4dgx/s/live-1.m3u8
 
-
-#EXTINF:-1 tvg-logo="https://contactodeportivo.pe/wp-content/uploads/2021/10/CONTACTO-DEPORTIVO-300x90.png" group-title="Streamers (Streamers)",Conacto Deportivo 2
-https://live.obslivestream.com/cdeportivo2/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://contactodeportivo.pe/wp-content/uploads/2021/10/CONTACTO-DEPORTIVO-300x90.png" group-title="Streamers (Streamers)",Conacto Deportivo 1
+#EXTINF:-1 tvg-logo="https://contactodeportivo.pe/wp-content/uploads/2021/10/CONTACTO-DEPORTIVO-300x90.png" group-title="Peru (Perú)",Conacto Deportivo 1
 https://live.obslivestream.com/cdeportivo/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://contactodeportivo.pe/wp-content/uploads/2021/10/CONTACTO-DEPORTIVO-300x90.png" group-title="Peru (Perú)",Conacto Deportivo 2
+https://live.obslivestream.com/cdeportivo2/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-qEOh3DrIvJQ/X4X3vPe1plI/AAAAAAAAHP4/JTIm_HTKpm4Z-Bdu68cq9ioGTq_qVOH-QCLcBGAsYHQ/s340/gen.png" group-title="Paraguay (Paraguay)",GEN tv 1
+https://rds3gen.desdeparaguay.net/gentv/gentv_int_baja/chunklist_w430393820.m3u8?k=6910ee47ddc1829db038ca1e77010bb7c4141b483dec6693fc5bd4309bd073d5&exp=1694054666
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-qEOh3DrIvJQ/X4X3vPe1plI/AAAAAAAAHP4/JTIm_HTKpm4Z-Bdu68cq9ioGTq_qVOH-QCLcBGAsYHQ/s340/gen.png" group-title="Paraguay (Paraguay)",GEN tv 2
+https://rds3gen.desdeparaguay.net/gentv/gentv_int_baja/chunklist_w430393820.m3u8
