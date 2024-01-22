@@ -26,7 +26,16 @@ https://hls.youtb.workers.dev/channel/UCort3mldTtMErPqprSlSfng
 http://livees.cgtn.com/1000e/prog_index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Arirang-TV-Logo.svg/250px-Arirang-TV-Logo.svg.png" group-title="South Korea (한국어)",Arirang
-http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
+https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Arirang-TV-Logo.svg/250px-Arirang-TV-Logo.svg.png" group-title="South Korea (한국어)",Arirang 360p
+https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b656000_sleng.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Arirang-TV-Logo.svg/250px-Arirang-TV-Logo.svg.png" group-title="South Korea (한국어)",Arirang 540p
+https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b1256000_sleng.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Arirang-TV-Logo.svg/250px-Arirang-TV-Logo.svg.png" group-title="South Korea (한국어)",Arirang 720p
+https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b2256000_sleng.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Arirang-TV-Logo.svg/250px-Arirang-TV-Logo.svg.png" group-title="South Korea (한국어)",Arirang 1080p
+https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b3256000_sleng.m3u8
+
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/ff/EBS_1TV_Logo.png/" group-title="South Korea (한국어)",EBS 1
 https://ebsonair.ebs.co.kr/groundwavefamilypc/familypc1m/chunklist_w1149608073.m3u8
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/5/56/EBS_2TV_Logo.png" group-title="South Korea (한국어)",EBS 2
@@ -114,16 +123,6 @@ https://d3krdjs7is1y42.cloudfront.net/ATVSur/f05b236d4a4d43b3987d6f5ed5686d6e.sd
 https://d3krdjs7is1y42.cloudfront.net/ATVSur/f05b236d4a4d43b3987d6f5ed5686d6e.sdp/ATVSur/ATVSur1/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AL5GRJXxSCfelGkSvVDzgmyjOhm1gBKZFSDSUHt-pgk8hfU=s88-c-k-c0x00ffffff-no-rj" group-title="Peru (Perú)",Willax TV 240p
-https://stream-02.sv4.dailymotion.com/sec(ekpi6JmRB5KslkTtNqtBmmsqtoAdW-EGTaOQ9KsFxUSXfAeLS0e8skpbRWz9NnmZ)/dm/3/x7x4dgx/s/live-0.m3u8
+https://stream-02.nyc.dailymotion.com/sec(ekpi6JmRB5KslkTtNqtBmmKwfD9wLgpfFH8KKAb7OXwS1bcAMN-IzLoP7Q7mvF9P)/dm/3/x7x4dgx/s/live-0.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AL5GRJXxSCfelGkSvVDzgmyjOhm1gBKZFSDSUHt-pgk8hfU=s88-c-k-c0x00ffffff-no-rj" group-title="Peru (Perú)",Willax TV 480p
-https://stream-02.sv4.dailymotion.com/sec(ekpi6JmRB5KslkTtNqtBmmsqtoAdW-EGTaOQ9KsFxUSXfAeLS0e8skpbRWz9NnmZ)/dm/3/x7x4dgx/s/live-1.m3u8
-
-#EXTINF:-1 tvg-logo="https://contactodeportivo.pe/wp-content/uploads/2021/10/CONTACTO-DEPORTIVO-300x90.png" group-title="Peru (Perú)",Conacto Deportivo 1
-https://live.obslivestream.com/cdeportivo/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://contactodeportivo.pe/wp-content/uploads/2021/10/CONTACTO-DEPORTIVO-300x90.png" group-title="Peru (Perú)",Conacto Deportivo 2
-https://live.obslivestream.com/cdeportivo2/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-qEOh3DrIvJQ/X4X3vPe1plI/AAAAAAAAHP4/JTIm_HTKpm4Z-Bdu68cq9ioGTq_qVOH-QCLcBGAsYHQ/s340/gen.png" group-title="Paraguay (Paraguay)",GEN tv 1
-https://rds3gen.desdeparaguay.net/gentv/gentv_int_baja/chunklist_w430393820.m3u8?k=6910ee47ddc1829db038ca1e77010bb7c4141b483dec6693fc5bd4309bd073d5&exp=1694054666
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-qEOh3DrIvJQ/X4X3vPe1plI/AAAAAAAAHP4/JTIm_HTKpm4Z-Bdu68cq9ioGTq_qVOH-QCLcBGAsYHQ/s340/gen.png" group-title="Paraguay (Paraguay)",GEN tv 2
-https://rds3gen.desdeparaguay.net/gentv/gentv_int_baja/chunklist_w430393820.m3u8
+https://stream-02.nyc.dailymotion.com/sec(ekpi6JmRB5KslkTtNqtBmmKwfD9wLgpfFH8KKAb7OXwS1bcAMN-IzLoP7Q7mvF9P)/dm/3/x7x4dgx/s/live-1.m3u8
